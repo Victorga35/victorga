@@ -1,0 +1,25 @@
+body {
+    color:white;
+    background:black;
+    margin: 0px;
+    font-family: "Permanent Marker", cursive;
+}
+
+header {
+    border-bottom: solid 2px rgba(108, 60, 204, 0.825);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(108, 60, 204, 0.825);
+}
+
+section {
+    background: rgb(155, 84, 160);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
